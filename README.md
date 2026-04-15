@@ -1,9 +1,6 @@
 # Projeto Prático RCD 2025/2026
-> 1.ª Fase — Planeamento de Endereçamento IP
 
 ![UMa](https://img.shields.io/badge/Universidade_da_Madeira-RCD_2025%2F2026-blue)
-![Status](https://img.shields.io/badge/Fase_1-Concluída-green)
-![Status](https://img.shields.io/badge/Fase_2-Em_progresso-orange)
 
 ---
 
@@ -72,7 +69,7 @@ The first phase focuses on IP address planning using **VLSM (Variable Length Sub
 - [x] IP addressing tables for all devices
 - [x] Physical topology in Cisco Packet Tracer
 
-### Phase 2 — Network Configuration *(due 24 May 2026)*
+### Phase 2 — Network Configuration
 - [ ] Basic device configuration (hostname, SSH, NTP, passwords)
 - [ ] Router interfaces and sub-interfaces (802.1Q)
 - [ ] DHCP server configuration
