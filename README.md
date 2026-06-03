@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-28a745?style=for-the-badge)
 ![Group](https://img.shields.io/badge/Group_9-PL2-ff6600?style=for-the-badge)
 
-**Computer Networks and Data Communication **
+Computer Networks and Data Communication
 
 </div>
 
